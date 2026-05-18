@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`356fa98`](https://github.com/stdlib-js/stdlib/commit/356fa98b0572792aa89fe8a36acdf1f4f629826f) - **docs:** add note _(by Athan Reines)_
 -   [`fad2314`](https://github.com/stdlib-js/stdlib/commit/fad2314e74226b9cfc8c983a83cfd32a68360a56) - **feat:** add `ndarray/falses` _(by Athan Reines)_
 
 </details>
